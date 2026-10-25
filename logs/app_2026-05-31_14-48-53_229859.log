@@ -1,0 +1,4 @@
+2026-05-31 14:48:53.236 | INFO     | main:<module>:119 - شروع برنامه
+2026-05-31 14:48:55.844 | INFO     | enhancements:setup_enhancements:307 - افزونه‌های ارتقا فعال شدند.
+2026-05-31 14:49:21.103 | INFO     | enhancements:add_tabs_to_panel:63 - تب‌های افزونه به پنل professor اضافه شدند.
+2026-05-31 14:49:21.119 | INFO     | main:login:674 - کاربر 123 وارد شد.

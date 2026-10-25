@@ -1,0 +1,2 @@
+2026-05-31 16:30:06.806 | INFO     | __main__:<module>:125 - شروع برنامه
+2026-05-31 16:32:38.047 | ERROR    | __main__:run:358 - خطا در ارسال ایمیل: {'jjhjhy': (553, b'5.1.3 The recipient address <jjhjhy> is not a valid RFC 5321 address. For\n5.1.3 more information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. 5b1f17b1804b1-4909ca6db64sm175495805e9.6 - gsmtp')}

@@ -1,0 +1,4 @@
+2026-05-31 16:37:24.175 | INFO     | __main__:<module>:125 - شروع برنامه
+2026-05-31 16:40:17.208 | INFO     | __main__:create_alert:375 - Alert for user 3: حساب شما توسط ادمین تأیید شد. می‌توانید وارد شوید.
+2026-05-31 16:40:19.837 | INFO     | __main__:run:355 - ایمیل به jafarireihane214@gmail.com ارسال شد.
+2026-05-31 16:43:27.652 | INFO     | __main__:run:355 - ایمیل به jafarireihane5@gmail.com ارسال شد.

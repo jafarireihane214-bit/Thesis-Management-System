@@ -1,0 +1,17 @@
+{
+  "student": {
+    "first_name": "محمد",
+    "last_name": "علی زاده",
+    "student_id": "0311145562355996",
+    "field": "فیزیک"
+  },
+  "supervisor": "نگار جعفری",
+  "defense_date": "None",
+  "final_grade": 11.0,
+  "meetings": [
+    {
+      "date": "2026-06-21",
+      "topic": "مهم"
+    }
+  ]
+}
